@@ -1,0 +1,19 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background for preview (can be removed for transparency) -->
+  <rect width="400" height="100" fill="#020617" rx="8" />
+  
+  <!-- Logo Icon -->
+  <rect x="20" y="25" width="50" height="50" rx="6" fill="#2563eb" />
+  <g transform="translate(30, 35)">
+    <rect x="0" y="0" width="14" height="14" fill="white" fill-opacity="0.4" />
+    <rect x="16" y="0" width="14" height="14" fill="white" />
+    <rect x="0" y="16" width="14" height="14" fill="white" />
+    <rect x="16" y="16" width="14" height="14" fill="white" fill-opacity="0.4" />
+  </g>
+  
+  <!-- GRIDstone Text (Serif) -->
+  <text x="85" y="62" font-family="Playfair Display, Georgia, serif" font-size="32" font-weight="bold" fill="white" letter-spacing="-1">GRIDstone</text>
+  
+  <!-- Capital Text (Sans-serif) -->
+  <text x="248" y="62" font-family="DM Sans, sans-serif" font-size="32" font-weight="300" fill="#3b82f6" letter-spacing="-1">Capital</text>
+</svg>
